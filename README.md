@@ -7,7 +7,7 @@ mostly useless without the accompanying media tree (the "game directory" which i
 Sourceforge via Subversion.  Therefore to get everything, execute the following:
 
 ```
-git clone --recursive https://github.com/sparkprime/grit-engine.git grit-engine
+git clone --recursive https://github.com/grit-engine/grit-engine.git grit-engine
 svn clone https://svn.code.sf.net/p/gritengine/code/trunk grit-engine/media
 ```
 
